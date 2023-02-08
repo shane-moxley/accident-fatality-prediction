@@ -1,2 +1,2 @@
-This repository contains the Google Collaboratory notebook in which multiple supervised machine learning models are trained on the FARS dataset from the NHTSA for the
-purpose of predicting the severity of a car accident.
+This repository contains the Jupyter notebook in which multipled machine learning models are trained on the FARS dataset from the NHTSA for the purpose of predicting the 
+severity of a car accident with a high degree (~92%) of accuracy.
